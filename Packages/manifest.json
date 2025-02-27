@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "com.codewriter.triinspector": "https://github.com/codewriter-packages/Tri-Inspector.git",
+    "com.unity.ide.rider": "3.0.34",
+    "com.unity.nuget.newtonsoft-json": "3.0.1",
+    "com.unity.test-framework": "1.4.6",
+    "com.unity.modules.accessibility": "1.0.0",
+    "com.unity.modules.director": "1.0.0",
+    "com.unity.modules.imgui": "1.0.0",
+    "com.unity.modules.jsonserialize": "1.0.0",
+    "com.unity.modules.ui": "1.0.0",
+    "com.unity.modules.uielements": "1.0.0",
+    "com.unity.modules.umbra": "1.0.0"
+  }
+}

@@ -1,0 +1,67 @@
+.input_field {
+    border-top-width: 0;
+    border-right-width: 0;
+    border-bottom-width: 0;
+    border-left-width: 0;
+}
+
+.input_field > Label {
+    display: none;
+}
+
+.input_field > #unity-text-input {
+    border-top-width: 0;
+    border-right-width: 0;
+    border-bottom-width: 3px;
+    border-left-width: 0;
+    border-left-color: rgb(75, 174, 245);
+    border-right-color: rgb(75, 174, 245);
+    border-top-color: rgb(75, 174, 245);
+    border-bottom-color: rgb(75, 174, 245);
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.button {
+    background-color: rgb(75, 174, 245);
+    color: rgb(255, 255, 255);
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    margin-top: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+}
+
+.input_field > #unity-text-input > TextElement {
+    color: rgba(87, 87, 87, 0.33);
+    -unity-font-style: italic;
+}
+
+.result-label {
+    border-top-width: 0;
+    border-right-width: 0;
+    border-bottom-width: 0;
+    border-left-width: 0;
+    -unity-text-align: upper-right;
+    color: rgb(75, 174, 245);
+    -unity-font-style: bold;
+    -unity-font-definition: url("project://database/Library/unity%20default%20resources?fileID=10102&guid=0000000000000000e000000000000000&type=0#LegacyRuntime");
+    font-size: 16px;
+}
+
+.error-popup {
+    transition-duration: 0.1s;
+    transition-property: scale;
+    scale: 0 0;
+    width: 100%;
+}
+
+.show-error-popup {
+    scale: 1 1;
+}
+
+* {
+    transition-duration: 0.2s;
+}

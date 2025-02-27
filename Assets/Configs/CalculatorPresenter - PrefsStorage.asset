@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17681e06edf640dd9fdaa793c8513c52, type: 3}
+  m_Name: CalculatorPresenter - PrefsStorage
+  m_EditorClassIdentifier: 
+  model: {fileID: 11400000, guid: 9ab8a4c269c234823b1ce00b6c870edb, type: 2}
+  storage: {fileID: 11400000, guid: 2f737f43bcda5466e89d6444bb57849d, type: 2}
+  view: {fileID: 11400000, guid: 21a42f84a23204c6a8ada856793b2dd3, type: 2}
