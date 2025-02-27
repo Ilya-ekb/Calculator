@@ -222,6 +222,6 @@ public class UIToolkitViewConfig : ViewConfig
 
 ## Notes
 
-- The code uses the MVC (Model-View-Presenter) design pattern to separate application logic into models, views, and presenters.
+- The code uses the MVP (Model-View-Presenter) design pattern to separate application logic into models, views, and presenters.
 - The project utilizes the Newtonsoft.Json library for data serialization.
 - Each view must implement the `ICalculatorView` interface to be compatible with the presenter.
