@@ -25,7 +25,8 @@ This project is a simple calculator implemented using the MVP (Model-View-Presen
 5. Each configurator has three fields:
      - Model - configuration of the model
      - Storage - configuration of the storage
-     - View - configuration of the view
+     - View - configuration of the view]
+       
    Depending on the chosen configuration, the presenter can be flexibly configured. 
    ![PresenterConfig](https://github.com/Ilya-ekb/Calculator/blob/master/Assets/Resources/presenter.png)
 6. Run the Play Mode.
