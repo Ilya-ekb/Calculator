@@ -4,7 +4,7 @@
 
 ## Description
 
-This project is a simple calculator implemented using the MVC (Model-View-Presenter) design pattern. The application supports various models, storages, and views, allowing for easy extension and modification of its functionality.
+This project is a simple calculator implemented using the MVP (Model-View-Presenter) design pattern. The application supports various models, storages, and views, allowing for easy extension and modification of its functionality.
 
 ### Features
 - Simple addition model
