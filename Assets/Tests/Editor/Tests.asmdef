@@ -4,7 +4,11 @@
     "references": [
         "UnityEngine.TestRunner",
         "UnityEditor.TestRunner",
-        "Scripts"
+        "Scripts",
+        "Model",
+        "View",
+        "Storage",
+        "Presenter"
     ],
     "includePlatforms": [
         "Editor"

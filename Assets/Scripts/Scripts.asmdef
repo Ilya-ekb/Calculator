@@ -2,7 +2,11 @@
     "name": "Scripts",
     "rootNamespace": "",
     "references": [
-        "GUID:324caed91501a9c47a04ebfd87b68794"
+        "GUID:324caed91501a9c47a04ebfd87b68794",
+        "GUID:16c8f0c000201461d8f75f400bb2ebad",
+        "GUID:7e1a9f494be3a451cac22c26c65a60fa",
+        "GUID:b9d51fdd8316647f6929c35400c59628",
+        "GUID:ff1afc62232a242148ddb879aa6022a4"
     ],
     "includePlatforms": [
         "Android",
