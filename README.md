@@ -21,15 +21,19 @@ This project is a simple calculator implemented using the MVP (Model-View-Presen
 2. Open the project in Unity.
 3. Open the SampleScene
 4. Entry point is the MonoCalculator.cs component, which has a field that accepts a presenter configurator (a subclass of ScriptableObject.cs). Depending on the selected configurator, you can change the initialized model, view, and data storage mechanism.
+   
    ![MonoCalculator](https://github.com/Ilya-ekb/Calculator/blob/master/Assets/Resources/editor.png)
-5. Each configurator has three fields:
+
+6. Each configurator has three fields:
      - Model - configuration of the model
      - Storage - configuration of the storage
      - View - configuration of the view]
        
-   Depending on the chosen configuration, the presenter can be flexibly configured. 
+   Depending on the chosen configuration, the presenter can be flexibly configured.
+   
    ![PresenterConfig](https://github.com/Ilya-ekb/Calculator/blob/master/Assets/Resources/presenter.png)
-6. Run the Play Mode.
+
+7. Run the Play Mode.
 
 ### Technologies Used
 - Unity
