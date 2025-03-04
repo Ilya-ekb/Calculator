@@ -1,6 +1,6 @@
 # Calculator Project
 
-![Calculator](https://github.com/Ilya-ekb/Calculator/blob/master/Assets/Resources/UI/calc-img.png) <!-- Замените на изображение калькулятора -->
+![Calculator](https://github.com/Ilya-ekb/Calculator/blob/master/Assets/Resources/UI/calc-img.png)
 
 ## Description
 
